@@ -172,7 +172,7 @@
         ],
         "handle": {
           "delayRunAfter": 0,
-          "delayRunBefore": 1000,
+          "delayRunBefore": 200,
           "node": {
             "className": "",
             "nodeIndex": 0,
